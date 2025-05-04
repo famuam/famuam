@@ -1,0 +1,1 @@
+console.log('FAMUAM Landing Page Loaded');
